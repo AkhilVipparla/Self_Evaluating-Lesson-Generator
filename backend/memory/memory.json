@@ -1,0 +1,14 @@
+{
+  "common_failures": [
+    "flow",
+    "jargon_explained",
+    "workflow",
+    "length"
+  ],
+  "prompt_updates": [
+    "Keep every required section, in the exact required order.",
+    "Always explain every technical term the moment it first appears.",
+    "Always explain the step-by-step process of how the topic works.",
+    "Keep the lesson within the target length - not too short, not too long."
+  ]
+}

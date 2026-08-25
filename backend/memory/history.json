@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-08-25T15:35:11.866148+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "passed": false,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-08-25T15:36:33.362129+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "passed": false,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-08-25T15:39:02.534076+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "passed": true,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-08-25T15:39:27.095891+00:00",
+    "topic": "Photosynthesis",
+    "passed": true,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-25T15:40:56.785461+00:00",
+    "topic": "reverse psychology",
+    "passed": true,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-08-25T15:44:01.936071+00:00",
+    "topic": "llm",
+    "passed": true,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-08-25T15:49:05.239702+00:00",
+    "topic": "reverse psychology",
+    "passed": true,
+    "retry_count": 1
+  }
+]

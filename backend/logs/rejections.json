@@ -1,0 +1,210 @@
+[
+  {
+    "timestamp": "2026-08-25T15:34:28.602899+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 1,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": false,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Missing required section(s): What is Introduction to Retrieval-Augmented Generation (RAG), Why Introduction to Retrieval-Augmented Generation (RAG) is needed, How Introduction to Retrieval-Augmented Generation (RAG) works, Real-world example.",
+      "Some technical terms are not explained when first used: Traditional, accurate, checking, collection, combines."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:34:37.320479+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 2,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": false,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Missing required section(s): What is Introduction to Retrieval-Augmented Generation (RAG), Why Introduction to Retrieval-Augmented Generation (RAG) is needed, How Introduction to Retrieval-Augmented Generation (RAG) works, Real-world example.",
+      "Some technical terms are not explained when first used: Augmented, Retrieval, abilities, articles, checking."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:35:11.863677+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 3,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": false,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Missing required section(s): What is Introduction to Retrieval-Augmented Generation (RAG), Why Introduction to Retrieval-Augmented Generation (RAG) is needed, How Introduction to Retrieval-Augmented Generation (RAG) works, Real-world example.",
+      "Some technical terms are not explained when first used: Traditional, checking, computer, computers, documents."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:35:29.658099+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 1,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": false,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Missing required section(s): What is Introduction to Retrieval-Augmented Generation (RAG), Why Introduction to Retrieval-Augmented Generation (RAG) is needed, How Introduction to Retrieval-Augmented Generation (RAG) works, Real-world example.",
+      "Some technical terms are not explained when first used: Augmented, Everyday, Reducing, Traditional, accurate."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:36:13.249783+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 2,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": false,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Missing required section(s): What is Introduction to Retrieval-Augmented Generation (RAG), Why Introduction to Retrieval-Augmented Generation (RAG) is needed, How Introduction to Retrieval-Augmented Generation (RAG) works, Real-world example.",
+      "Some technical terms are not explained when first used: Everyday, answering, chatbots, combines, computer."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:36:33.337321+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 3,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": false,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Missing required section(s): What is Introduction to Retrieval-Augmented Generation (RAG), Why Introduction to Retrieval-Augmented Generation (RAG) is needed, How Introduction to Retrieval-Augmented Generation (RAG) works, Real-world example.",
+      "Some technical terms are not explained when first used: Everyday, answering, automatically, combines, computer."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:38:51.507057+00:00",
+    "topic": "Introduction to Retrieval-Augmented Generation (RAG)",
+    "attempt": 1,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": true,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Some technical terms are not explained when first used: assistants, customer, definition, examples, external."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:40:51.113848+00:00",
+    "topic": "reverse psychology",
+    "attempt": 1,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": true,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Some technical terms are not explained when first used: Identify, Real-world, homework, original, requests."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:43:53.065714+00:00",
+    "topic": "llm",
+    "attempt": 1,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": true,
+      "example": true,
+      "accuracy": true,
+      "length": true,
+      "flow": true,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "Some technical terms are not explained when first used: definition, generation, guessing, homework, knowledge."
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T15:48:45.901014+00:00",
+    "topic": "reverse psychology",
+    "attempt": 1,
+    "checks": {
+      "definition": true,
+      "motivation": true,
+      "workflow": false,
+      "example": true,
+      "accuracy": true,
+      "length": false,
+      "flow": true,
+      "summary": true,
+      "simple_language": true,
+      "jargon_explained": false
+    },
+    "reasons": [
+      "The lesson describes the concept but does not provide a clear step‑by‑step explanation of how to apply reverse psychology.",
+      "Lesson is too short (287 words, minimum 300).",
+      "Some technical terms are not explained when first used: Real-world, carefully, conflict, directly, probably."
+    ]
+  }
+]
