@@ -1,9 +1,7 @@
 # Self-Evaluating Lesson Generator
 
 An agentic lesson-generation system that plans, writes, evaluates, and improves its own lessons
-before returning a final result — for **any topic you give it**. See `CLAUDE.md` for the full
-design spec, `plan.md` for the implementation plan this build followed, and `update.md` for a
-step-by-step build log (including bugs found and fixed along the way).
+before returning a final result.
 
 - **Agents**: Planner → Generator → Evaluator → Improver, orchestrated with LangGraph
   (`backend/graph.py`), with a max of 2 retries before the loop terminates.
